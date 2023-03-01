@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there! I'm a mobile developer with expertise in developing mobile applications for Android and iOS platforms. This is my Github profile where you can find some of my personal projects and some of my experiments with new technologies and libraries.
 
-<!--
-**iagoMendesDaSilva/iagoMendesDaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Education
+• Analysis and Systems Development, 2021
 
-Here are some ideas to get you started:
+Skills
+• Languages: Java, Kotlin.
+• Frameworks: Android SDK, React Native.
+• Tools: Android Studio, Xcode, Visual Studio Code, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Language Skills
+• English: Proficient
+• Portuguese: Native
