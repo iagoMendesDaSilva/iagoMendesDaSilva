@@ -6,10 +6,10 @@ Education<br>
 • Analysis and Systems Development, 2021
 
 Skills<br>
-• Languages: Java, Kotlin.
-• Frameworks: Android SDK, React Native.
+• Languages: Java, Kotlin.<br>
+• Frameworks: Android SDK, React Native.<br>
 • Tools: Android Studio, Xcode, Visual Studio Code, Git, GitHub
 
 Language Skills<br>
-• English: Proficient
+• English: Proficient<br>
 • Portuguese: Native
