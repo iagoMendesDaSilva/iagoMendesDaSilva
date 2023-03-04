@@ -6,7 +6,11 @@ Education<br>
 • Analysis and Systems Development, 2021
 
 Skills<br>
-Java, Kotlin, JavaScript, TypeScript, React Native.<br>
+• Java<br>
+• Kotlin<br>
+• JavaScript<br>
+• TypeScript<br>
+• React Native<br>
 
 Language Skills<br>
 • English: Proficient<br>
