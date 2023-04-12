@@ -22,5 +22,3 @@ Language Skills<br>
 • English: Proficient<br>
 • Portuguese: Native<br>
 • Russian: Basic
-
- ![Snake animation](https://github.com/iagoMendesDaSilva/iagoMendesDaSilva/blob/output/github-contribution-grid-snake.svg)
